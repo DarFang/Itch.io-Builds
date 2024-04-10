@@ -13,3 +13,4 @@ https://github.com/DarFang/Itch.io-Builds/assets/56571687/3e6600c9-7033-490e-aa9
 ## Change Log
 v 1.0.0 April 6 - Initial Release
 
+### Explore my other games: https://github.com/DarFang/Itch.io-Builds

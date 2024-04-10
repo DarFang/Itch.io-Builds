@@ -23,3 +23,5 @@ v1.0.1 - Mar 25, 2024:
 v1.0.2 - Mar 27, 2024: 
 - Added touchscreen inputs, minor bug fixes
 
+### Explore my other games: https://github.com/DarFang/Itch.io-Builds
+

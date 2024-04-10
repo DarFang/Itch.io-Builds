@@ -24,3 +24,6 @@ Link to play https://dariusfang.itch.io/muffin-clicker
   
 https://github.com/DarFang/MuffinClicker/assets/56571687/8b7a8630-1274-4152-a096-de2cef208f0c
 
+
+
+### Explore my other games: https://github.com/DarFang/Itch.io-Builds
