@@ -16,7 +16,8 @@ Link to play https://dariusfang.itch.io/the-gauntlet
 - InputController: contains a list of modules to be used for player input
 - AITurretState: controls the state of the turret to either damage or idle.
 
-
+## Demo:
+https://github.com/DarFang/Itch.io-Builds/assets/56571687/83819b57-4c9e-476e-aec5-d898f0146005
 
 ### Explore my other games: https://github.com/DarFang/Itch.io-Builds
 
