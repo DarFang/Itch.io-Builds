@@ -1,6 +1,15 @@
 # The Gauntlet
 Link to play https://dariusfang.itch.io/the-gauntlet
 
+## Challenges Faced During Assignment:
+The hardest part of the assignment was making sure the game ran smoothly from start to finish as well as the gameplay flow. After the first release, a lot of time was spent optimizing the game using techniques like LOD, occlusion culling, and static batching to improve performance.
+
+### Updated Features:
+
+    Performance Improvements: Reduced the rendering of meshes when the player is far away to improve performance.
+    Code Refactoring: Cleaned up and improved the code following SOLID principles.
+    New Gameplay Elements: Added lava, parkour sections, and moving platforms to make the game more exciting.
+
 ## Features:
 - Puzzles
 - Use of Game architectures, classes, design patterns
