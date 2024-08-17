@@ -4,6 +4,8 @@ Link to play [https://dariusfang.itch.io/roguecraft](https://dariusfang.itch.io/
 ## [GDD 1.1](https://tourmaline-operation-ca3.notion.site/RogueCraft-GDD-01-10-8edf36e9295b4006b67ce1bbbc73c28f?pvs=74)
 ## [Initial GGD](https://tourmaline-operation-ca3.notion.site/RougueCraft-GDD-01-00-b8ae30f8f6b742a69662a0e4710b5096?pvs=4).
 
+https://github.com/user-attachments/assets/05455c04-8d3b-46c4-a7a5-00900a54269d
+
 ## **Update V0.81A July 26, 2024:**
 ### V0.81A Features
 <table>
