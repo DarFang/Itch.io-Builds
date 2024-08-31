@@ -2,7 +2,7 @@
 Link to play https://dariusfang.itch.io/the-gauntlet
 
 ## Challenges Faced During Assignment:
-The hardest part of the assignment was making sure the game ran smoothly from start to finish as well as the gameplay flow. After the first release, a lot of time was spent optimizing the game using techniques like LOD, occlusion culling, and static batching to improve performance.
+The hardest part of the assignment was making sure the game ran smoothly from start to finish as well as the gameplay flow. After the first release, a lot of time was spent optimizing the game using techniques like LOD, occlusion culling, and static batching to improve performance. This was my first attempt at a complete game. With that in mind there were a few iterations with one being feedback for the game. The game originally lacked challenging rooms since players just have to walk up to the end of the door without any restrictions.
 
 ### Updated Features:
 
