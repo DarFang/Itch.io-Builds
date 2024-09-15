@@ -1,6 +1,11 @@
 # RogueCraft
 Welcome to RogueCraft Logs
 Link to play [https://dariusfang.itch.io/roguecraft](https://dariusfang.itch.io/roguecraft).
+
+
+https://github.com/user-attachments/assets/bee862a3-4789-4b08-a1c6-0cb0f4debcdf
+
+
 ## [GDD 1.1](https://tourmaline-operation-ca3.notion.site/RogueCraft-GDD-01-10-8edf36e9295b4006b67ce1bbbc73c28f?pvs=74)
 ## [Initial GGD](https://tourmaline-operation-ca3.notion.site/RougueCraft-GDD-01-00-b8ae30f8f6b742a69662a0e4710b5096?pvs=4).
 
