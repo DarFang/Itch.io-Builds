@@ -8,7 +8,8 @@ https://github.com/user-attachments/assets/bee862a3-4789-4b08-a1c6-0cb0f4debcdf
 
 ## [GDD 1.1](https://tourmaline-operation-ca3.notion.site/RogueCraft-GDD-01-10-8edf36e9295b4006b67ce1bbbc73c28f?pvs=74)
 ## [Initial GGD](https://tourmaline-operation-ca3.notion.site/RougueCraft-GDD-01-00-b8ae30f8f6b742a69662a0e4710b5096?pvs=4).
-
+## [Development Document](https://tourmaline-operation-ca3.notion.site/Rogue-Craft-Development-Document-ea0aeacd74b442b2ac83669a7ac2b80d?pvs=4)
+## [Development Log](https://tourmaline-operation-ca3.notion.site/RogueCraft-DevelopmentLog-e1141226b7bc47eb8730a6b910960ee1?pvs=4)
 https://github.com/user-attachments/assets/05455c04-8d3b-46c4-a7a5-00900a54269d
 
 ## **Update V0.81A July 26, 2024:**
