@@ -78,6 +78,15 @@ https://github.com/user-attachments/assets/05455c04-8d3b-46c4-a7a5-00900a54269d
  <tr>
 </table>
 
+### V0.9.2A - Sept 2024: 
+1. Added tutorial, music, exit option, main menu
+2. Painitng Recipe
+3. Office Assets
+#### Priority List for next update:
+1. Machine Inventory
+2. Design of modifiers
+
+
 ### V0.81A Current System Design
 <img src="https://github.com/DarFang/Itch.io-Builds/blob/main/RogueCraft/FileAssets/UML-Prototype%20Revision.webp" alt="SubmitChair" width="80%">
 
